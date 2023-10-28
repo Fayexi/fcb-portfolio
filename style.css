@@ -18,9 +18,14 @@ body{
 
 #landing{
 	height: 80vh;
+
 	
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+#profile{
+	filter: drop-shadow(-8px 10px 10px #ccc);
 }
